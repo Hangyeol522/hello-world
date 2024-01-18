@@ -1,3 +1,3 @@
-# hello-world
-INFO6150 Module1 Assignment
-Hangyeol Kim
++ # About me
++ My name is Hangyeol Kim.
++ I live in San Francisco.
